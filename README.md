@@ -19,5 +19,14 @@ Also we can indicate update the statistics indicating if the concerned person is
 
 Display beggars in the vicinity:
 
+
+
 Again depending on the current geo location all the concerned beggars along with their statistics can be viewed in a grid fashion.
 
+![Alt text](https://raw.github.com/Codeniti/SpotBeggar/master/screenshots/screenshots/scr1.png "screen")
+![Alt text](https://raw.github.com/Codeniti/SpotBeggar/master/screenshots/screenshots/scr2.png "screen")
+![Alt text](https://raw.github.com/Codeniti/SpotBeggar/master/screenshots/screenshots/scr3.png "screen")
+![Alt text](https://raw.github.com/Codeniti/SpotBeggar/master/screenshots/screenshots/scr4.png "screen")
+![Alt text](https://raw.github.com/Codeniti/SpotBeggar/master/screenshots/screenshots/scr5.png "screen")
+![Alt text](https://raw.github.com/Codeniti/SpotBeggar/master/screenshots/screenshots/scr6.png "screen")
+![Alt text](https://raw.github.com/Codeniti/SpotBeggar/master/screenshots/screenshots/scr7.png "screen")

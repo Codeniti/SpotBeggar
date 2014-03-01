@@ -1,0 +1,4 @@
+SpotBeggar
+==========
+
+Spot a Beggar
